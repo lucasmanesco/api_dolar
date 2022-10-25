@@ -1,4 +1,4 @@
-<h1 color=green>API para Extração da Diária da Cotação do Dólar<h1>
+<h1 color=green>API para Extração da Diária da Cotação do Dólar</h1>
 
 <p>Script utilizada para extração dos dados diretamente do Google utilizando a ferramenta Selenium.</p><br>
 <p>Os dados são escritos em um dataset existente do tipo csv (cotação_dolar.csv).</p><br>
