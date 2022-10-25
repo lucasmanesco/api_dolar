@@ -6,12 +6,6 @@ from parsel import Selector
 from datetime import date
 import csv
 
-# criando arquivo csv
-#data = csv.writer(open('output.csv','w',encoding='latin'))
-
-# escrevendo colunas do csv
-#data.writerow(['Data','Cotação Dolar'])
-
 # criando driver do Chrome
 driver = webdriver.Chrome('chromedriver.exe')
 
